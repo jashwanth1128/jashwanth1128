@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Chitla Jashwanth
 
+I’m a B.Tech CSE student focused on IoT and Data Science, creating smart systems and learning how to use data for meaningful insights.
+
+Currently working on sensor-based IoT projects and improving my skills in data handling, visualization, and basic ML workflows.
+
+I work with Python, Arduino/ESP boards, embedded sensors, and essential data-science tools.
+
+You can reach me at jashwanthmudiraj5@gmail.com
 <!--
 **jashwanth1128/jashwanth1128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
